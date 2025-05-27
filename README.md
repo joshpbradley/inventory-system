@@ -19,9 +19,13 @@ Launch the L_InventoryDemoLevel level in InventorySystem->ProjectSetup. This sho
 
 • Up Arrow [↑] / Down Arrow [↓] - zoom mesh in/out in the inventory viewport
 
-• Right mouse button: rotate viewport mesh/delete item
+• Right mouse button:= - rotate viewport mesh/delete item
 
-• Left mouse button: rotate viewport mesh/select item to view
+• Left mouse button - rotate viewport mesh/select item to view
+
+• R - reset the demonstration
+
+• Enter - exit the demonstration
 
 **Instructions**
 
