@@ -44,4 +44,5 @@ Launch the L_InventoryDemoLevel level in InventorySystem->ProjectSetup. This sho
 • Close the inventory [Esc], or by clicking the red button at the top right of the inventory to resume play.
 
 **Credit**
+
 Gun and doll icons made by users Lorc and Skoll. Available on https://game-icons.net
